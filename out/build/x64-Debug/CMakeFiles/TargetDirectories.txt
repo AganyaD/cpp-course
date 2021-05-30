@@ -1,0 +1,6 @@
+C:/cpp-course/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/cpp-course/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/cpp-course/out/build/x64-Debug/src/CMakeFiles/assignment_lib.dir
+C:/cpp-course/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/cpp-course/out/build/x64-Debug/src/CMakeFiles/assignment.dir
+C:/cpp-course/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
